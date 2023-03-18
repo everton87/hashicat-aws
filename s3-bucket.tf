@@ -3,6 +3,5 @@ module "s3_bucket" {
 
   bucket = "my-s3-bucket"
   acl    = "private"
-  bucket_prefix = "teste_everton"
 
 }
